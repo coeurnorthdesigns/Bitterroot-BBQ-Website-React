@@ -1,0 +1,30 @@
+.banner13-container {
+  gap: var(--dl-space-space-unit);
+  height: 86px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-size: cover;
+  background-image: url("/adobestock_743988751-1500w.jpeg");
+}
+.banner13-max-width {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner13-container1 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner13-title {
+  color: #ffffff;
+  font-size: 60px;
+  text-align: center;
+  font-family: "MailartRubberstamp-Regular";
+  letter-spacing: 4px;
+}

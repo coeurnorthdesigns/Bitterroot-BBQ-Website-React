@@ -1,0 +1,53 @@
+.features73-layout226 {
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-sixunits);
+  padding-right: var(--dl-space-space-sixunits);
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-unit);
+  justify-content: center;
+}
+.features73-max-width {
+  align-self: flex-start;
+}
+.features73-title1 {
+  align-self: flex-start;
+  text-align: left;
+  font-family: "MailartRubberstamp-Regular";
+}
+.features73-description1 {
+  align-self: flex-start;
+  text-align: left;
+  font-family: "Georgia";
+}
+.features73-column1 {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+.features73-content1 {
+  width: 299px;
+  align-self: flex-end;
+  padding-left: 5px;
+}
+.features73-title3 {
+  align-self: flex-start;
+  text-align: left;
+  font-family: "MailartRubberstamp-Regular";
+}
+.features73-description3 {
+  align-self: flex-start;
+  text-align: left;
+  font-family: "Georgia";
+}
+@media(max-width: 991px) {
+  .features73-content {
+    align-items: center;
+  }
+  .features73-content1 {
+    align-items: center;
+  }
+}

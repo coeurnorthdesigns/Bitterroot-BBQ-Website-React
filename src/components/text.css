@@ -1,0 +1,7 @@
+.text-container {
+  display: flex;
+  position: relative;
+}
+.text-text {
+  font-family: "Georgia";
+}

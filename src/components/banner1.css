@@ -1,0 +1,25 @@
+.banner1-container {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: var(--dl-space-space-threeunits);
+  padding-bottom: var(--dl-space-space-halfunit);
+}
+.banner1-max-width {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner1-container1 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.banner1-title {
+  font-size: 60px;
+  text-align: center;
+  font-family: "MailartRubberstamp-Regular";
+}
